@@ -1,0 +1,3 @@
+D:/Desktop/linear4/cmake-build-debug/CMakeFiles/linear4.dir
+D:/Desktop/linear4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/linear4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
